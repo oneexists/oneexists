@@ -1,13 +1,23 @@
 ### About Me
 
-Java web developer with experience in design, version control and agile development. Self-driven continual learner with a curiosity 
-to expand skills and knowledge to solve difficult problems. Some of my recent projects involve creating RESTful APIs, JUnit and Mockito 
-testing, and utilizing frameworks such as Spring Boot, Django, and Bootstrap.
+<a href="https://www.linkedin.com/in/skylar-lynner-826079188/">
+  <img align="left" alt="Skylar's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br><br>
+I am primarily a Java web developer with experience in design, version control and agile development. I am a self-driven continual learner 
+with a curiosity to expand skills and knowledge to solve difficult problems. Some of my recent projects involve creating RESTful APIs, 
+JUnit and Mockito testing, and learning frameworks such as Spring Boot, React, and Bootstrap.
 
-Recognized for leadership by prioritizing equity, inclusion, and advocacy. Involvement with several executive board positions, 
+Recognized for leadership by prioritizing equity, inclusion, and advocacy. Previous involvement with several executive board positions, 
 including Director of IT for Student Senate and President of PRIDE Club for two years.
 
-### Latest Posts
+### Current Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=readingTracker)]([https://github.com/oneexists/readingTracker])
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=ShelfTracker)]([https://github.com/oneexists/ShelfTracker])
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=pyutil)]([https://github.com/oneexists/pyutil])
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=oneexists.github.io)]([https://github.com/oneexists/oneexists.github.io])
+
+### Latest Blog Posts
 
 - [How to Incorporate Git into an Optimized Workflow](https://oneexists.github.io/git/2022-05-09-optimized-workflow.html)
 - [Git Tips and Tricks](https://oneexists.github.io/git/2022-05-09-git-tricks.html)
