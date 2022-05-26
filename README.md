@@ -13,7 +13,7 @@ including Director of IT for Student Senate and President of PRIDE Club for two 
 
 ### Current Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=readingTracker)]([https://github.com/oneexists/readingTracker])
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=ShelfTracker)]([https://github.com/oneexists/ShelfTracker])
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=Dictionary)]([https://github.com/oneexists/Dictionary])
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=pyutil)]([https://github.com/oneexists/pyutil])
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=oneexists.github.io)]([https://github.com/oneexists/oneexists.github.io])
 
