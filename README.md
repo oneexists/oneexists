@@ -14,22 +14,37 @@ including Director of IT for Student Senate and President of PRIDE Club for two 
 <br><br>
 
 ### Current Projects
-<div id="projects">
+- Java Web Applications
+  <div id="projects">
   <a href="https://github.com/oneexists/readingTracker">
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=readingTracker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   </a>
-  <a href="https://github.com/oneexists/Dictionary">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=Dictionary&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <a href="https://github.com/oneexists/FOAM">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=FOAM&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   </a>
-  <a href="https://github.com/oneexists/pyutil">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=pyutil&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
+</div>
+      
+- Java SE
+  <div id="projects">
+    <a href="https://github.com/oneexists/Dictionary">
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=Dictionary&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+    </a>
+  </div>
+
+- Python
+  <div id="projects">
+    <a href="https://github.com/oneexists/pyutil">
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=pyutil&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+    </a>
+  </div>
+
+### Website and Latest Blog Posts
+<div id="website">
   <a href="https://github.com/oneexists/oneexists.github.io">
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=oneexists.github.io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   </a>
 </div>
-
-### Latest Blog Posts
+<br>
 
 - [How to Incorporate Git into an Optimized Workflow](https://oneexists.github.io/git/2022-05-09-optimized-workflow.html)
 - [Git Tips and Tricks](https://oneexists.github.io/git/2022-05-09-git-tricks.html)
@@ -76,5 +91,5 @@ including Director of IT for Student Senate and President of PRIDE Club for two 
 
 ---
 <p align="center">
-  https://oneexists.github.io/
+  <a href="https://oneexists.github.io/">Check out my website!</a>
 </p>
