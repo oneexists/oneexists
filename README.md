@@ -46,6 +46,7 @@ including Director of IT for Student Senate and President of PRIDE Club for two 
 </div>
 <br>
 
+- [Integrating Agile Development and DevOps Practices](https://oneexists.github.io/agile/2022-06-02-agile-and-devops.html)
 - [How to Incorporate Git into an Optimized Workflow](https://oneexists.github.io/git/2022-05-09-optimized-workflow.html)
 - [Git Tips and Tricks](https://oneexists.github.io/git/2022-05-09-git-tricks.html)
 - [Security Concerns with IoT Devices](https://oneexists.github.io/security/2021-11-20-iot.html)
