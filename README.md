@@ -13,7 +13,7 @@ involve creating RESTful APIs, JUnit and Mockito testing, and learning framework
 ### Java Projects
 <p>
   Tech Stack: Java, J2EE, JSP, Spring Boot, PostgreSQL, Maven, JUnit, Bootstrap, React, Javascript, HTML5, CSS3 
-  <br />
+  <br> <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -58,8 +58,10 @@ involve creating RESTful APIs, JUnit and Mockito testing, and learning framework
   </div>
 
 ### Website Repository
-<p align="center">
+<p>
   <a href="https://oneexists.github.io/">Check out my website!</a>
+  I write blog posts about computer security, Git version control, Agile development and other topics
+  using Github Pages and Jekyll templating engine.
 </p>
 
 <div id="website">
