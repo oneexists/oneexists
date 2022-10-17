@@ -1,7 +1,8 @@
 ### About Me
 
-I am a self-driven continual learner with a curiosity to expand skills and knowledge to solve difficult problems. Some of my recent projects 
-involve creating RESTful APIs, JUnit and Mockito testing, and learning frameworks such as Spring Boot, React, and Bootstrap.
+My experience is primarily in Java web development, although I have also picked up some Python and C/C++.
+I am interested in automation and security. Some of my side projects include writing small scripts in
+Bash and Python.
 
 <div id="links">
 <a href="https://www.linkedin.com/in/skylar-lynner-826079188/">
@@ -10,9 +11,7 @@ involve creating RESTful APIs, JUnit and Mockito testing, and learning framework
 </div>
 <br><br>
 
-### Java Projects
 <p>
-  Tech Stack: Java, J2EE, JSP, Spring Boot, PostgreSQL, Maven, JUnit, Bootstrap, React, Javascript, HTML5, CSS3 
   <br> <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -24,21 +23,19 @@ involve creating RESTful APIs, JUnit and Mockito testing, and learning framework
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 </p>
 
-- Spring Boot
-  <div id="projects">
-    <a href="https://github.com/oneexists/readingTracker">
-      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=readingTracker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-    </a>
-    <a href="https://github.com/oneexists/Notebook">
-      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=Notebook&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-    </a>
-  </div>
-  
+### Java Projects
+
 - J2EE
+<p>
+  Java, JSP, JSTL/EL, HTML5, CSS3, Bootstrap, Maven, JUnit, MySQL, Connection Pooling, Tomcat
+</p>
   <div id="projects">
     <a href="https://github.com/oneexists/FOAM">
       <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=FOAM&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
     </a>
+<p>
+  Java, JSP, JSTL/EL, HTML5, CSS3, Bootstrap, Maven, JUnit, Sessions via WebListener, Logging via Logger
+</p>
     <a href="https://github.com/oneexists/reversi">
       <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=reversi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
     </a>
