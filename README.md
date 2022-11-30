@@ -1,8 +1,7 @@
 ### About Me
 
 My experience is primarily in Java web development, although I have also picked up some Python and C/C++.
-I am interested in automation and security. Some of my side projects include writing small scripts in
-Bash and Python.
+Some topics of interest to me are Agile development methodologies, computer security, and operating systems.
 
 <div id="links">
 <a href="https://www.linkedin.com/in/skylar-lynner-826079188/">
@@ -10,6 +9,8 @@ Bash and Python.
 </a>
 </div>
 <br><br>
+
+### Java
 
 <p>
   <br> <br>
@@ -23,25 +24,35 @@ Bash and Python.
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 </p>
 
-### Java Projects
+- Spring Boot
+
+  - Spring Data JPA, Hibernate, Spring Data REST, Spring Security, MySQL, JUnit Jupiter, Mockito, React, Bootstrap 5, CSS 3
+
+    <a href="https://github.com/oneexists/Bookshelf">
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=Bookshelf&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+    </a>
+
+  - Spring Data JPA, Hibernate, Spring Security, PostgreSQL, Jasypt encryption, JUnit Jupiter, Mockito/BDD Mockito, Thymeleaf
+    Bootstrap 4, HTML 5
+    
+    <a href="https://github.com/oneexists/BulletJournal">
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=BulletJournal&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+    </a>
 
 - J2EE
-<p>
-  Java, JSP, JSTL/EL, HTML5, CSS3, Bootstrap, Maven, JUnit, MySQL, Connection Pooling, Tomcat
-</p>
-  <div id="projects">
+  - Java, JSP, JSTL/EL, HTML5, CSS3, Bootstrap, Maven, JUnit, MySQL, Connection Pooling, Tomcat
+
     <a href="https://github.com/oneexists/FOAM">
       <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=FOAM&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
     </a>
-<p>
-  Java, JSP, JSTL/EL, HTML5, CSS3, Bootstrap, Maven, JUnit, Sessions via WebListener, Logging via Logger
-</p>
+    
+  - Java, JSP, JSTL/EL, HTML5, CSS3, Bootstrap, Maven, JUnit, Sessions via WebListener, Logging via Logger
+
     <a href="https://github.com/oneexists/reversi">
       <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=reversi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
     </a>
-  </div>
 
-### Python Projects
+### Python
 <p>
   CLI application built to automate some note taking tasks.
   <br />
@@ -54,11 +65,10 @@ Bash and Python.
     </a>
   </div>
 
-### Website Repository
+### Jekyll Website using GitHub Pages
 <p>
   <a href="https://oneexists.github.io/">Check out my website!</a>
-  I write blog posts about computer security, Git version control, Agile development and other topics
-  using Github Pages and Jekyll templating engine.
+  I've written posts about computer security, Git version control, Agile development and Java.
 </p>
 
 <div id="website">
