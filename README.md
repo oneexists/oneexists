@@ -28,29 +28,21 @@ Some topics of interest to me are Agile development methodologies, computer secu
 
   - Spring Data JPA, Hibernate, Spring Data REST, Spring Security, MySQL, JUnit Jupiter, Mockito, React, Bootstrap 5, CSS 3
 
-    <a href="https://github.com/oneexists/Bookshelf">
-      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=Bookshelf&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-    </a>
+    [![oneexists/Bookshelf - GitHub](https://gh-card.dev/repos/oneexists/Bookshelf.svg)](https://github.com/oneexists/Bookshelf)
 
   - Spring Data JPA, Hibernate, Spring Security, PostgreSQL, Jasypt encryption, JUnit Jupiter, Mockito/BDD Mockito, Thymeleaf
     Bootstrap 4, HTML 5
     
-    <a href="https://github.com/oneexists/BulletJournal">
-      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=BulletJournal&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-    </a>
+    [![oneexists/BulletJournal - GitHub](https://gh-card.dev/repos/oneexists/BulletJournal.svg)](https://github.com/oneexists/BulletJournal)
 
 - J2EE
   - Java, JSP, JSTL/EL, HTML5, CSS3, Bootstrap, Maven, JUnit, MySQL, Connection Pooling, Tomcat
 
-    <a href="https://github.com/oneexists/FOAM">
-      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=FOAM&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-    </a>
+    [![oneexists/FOAM - GitHub](https://gh-card.dev/repos/oneexists/FOAM.svg)](https://github.com/oneexists/FOAM)
     
   - Java, JSP, JSTL/EL, HTML5, CSS3, Bootstrap, Maven, JUnit, Sessions via WebListener, Logging via Logger
 
-    <a href="https://github.com/oneexists/reversi">
-      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=reversi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-    </a>
+    [![oneexists/reversi - GitHub](https://gh-card.dev/repos/oneexists/reversi.svg)](https://github.com/oneexists/reversi)
 
 ### Python
 <p>
@@ -60,20 +52,16 @@ Some topics of interest to me are Agile development methodologies, computer secu
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
   <div id="projects">
-    <a href="https://github.com/oneexists/pyutil">
-      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=pyutil&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-    </a>
+    <a href="https://github.com/oneexists/pyutil"><img src="https://gh-card.dev/repos/oneexists/pyutil.svg"></a>
   </div>
 
 ### Jekyll Website using GitHub Pages
 <p>
   <a href="https://oneexists.github.io/">Check out my website!</a>
-  I've written posts about computer security, Git version control, Agile development and Java.
+  I've written posts about computer security, Git version control, Agile development, DevOps and Java.
 </p>
 
 <div id="website">
-  <a href="https://github.com/oneexists/oneexists.github.io">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oneexists&repo=oneexists.github.io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
+  <a href="https://github.com/oneexists/oneexists.github.io"><img src="https://gh-card.dev/repos/oneexists/oneexists.github.io.svg"></a>
 </div>
 <br>
